@@ -48,7 +48,6 @@ namespace KursovoyWPF
 
                     tmp_Image = @"C:\Users\Public\Pictures\tmp_Image.jpg";
                     bmp1.Save(tmp_Image, ImageFormat.Jpeg);//Создаем временное изображение в формате BMP, этот тип поддерживается обычным битмапом.
-
                 }
                 catch
                 {
