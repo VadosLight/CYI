@@ -1,0 +1,60 @@
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\App.g.cs
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.lref
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.config
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.baml
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.g.resources
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.Properties.Resources.resources
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.GenerateResource.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CopyComplete
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csprojAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.manifest
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.application
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe.manifest
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.application
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.config
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.manifest
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.application
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.pdb
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csprojAssemblyReference.cache
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\App.g.cs
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.cache
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.lref
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.baml
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.g.resources
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.Properties.Resources.resources
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe.manifest
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.application
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CopyComplete
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe
+C:\Users\Vadim\Desktop\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.pdb
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.config
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe.manifest
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.application
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.exe
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\bin\Debug\KursovoyWPF.pdb
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csprojAssemblyReference.cache
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.g.cs
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\App.g.cs
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.cache
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF_MarkupCompile.lref
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\MainWindow.baml
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.g.resources
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.Properties.Resources.resources
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.GenerateResource.cache
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CoreCompileInputs.cache
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe.manifest
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.application
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.csproj.CopyComplete
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.exe
+D:\Projects\CYI\KursovoyWPF\KursovoyWPF\obj\Debug\KursovoyWPF.pdb
